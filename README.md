@@ -1,5 +1,13 @@
 #HW 1
 
-##Instructions for compiling the test program
+## Problem 1 Test Compilation Instructions
 
-* To compile and run the test, type `g++ -g -Wall split_test.cpp -o ./bin/split_test`, then `./bin/split_test`
+To compile the test, navigate to the repo and type `g++ -g -Wall split_test.cpp -o ./split_test`
+
+To run the test, type `./split_test`
+
+## Problem 2 Test Compilation Instructions
+
+To compile the test, navigate to the repo and type `g++ -g -Wall ulliststr_test.cpp -o ulliststr_test`
+
+To run the test, type `./ulliststr_test`
