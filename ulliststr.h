@@ -89,6 +89,8 @@ class ULListStr {
    *   - MUST RUN in O(1)
    */
   std::string const & front() const;
+
+  void print () const;
   
   /**
    * Overwrites the old value at index, pos, with val
